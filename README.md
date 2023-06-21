@@ -1,5 +1,5 @@
 # GPT4ALLxPYTTSX3
-Adding the GTP4ALL and pyttsx3 (text to speech) into one chunk. This can be used by anyone in their current stack or script.
+Adding the GTP4ALL and pyttsx3 (text to speech) libraries into one chunk. This can be used by anyone in their current stack.
 
 ## Installation:
 ```pip install gpt4all```
