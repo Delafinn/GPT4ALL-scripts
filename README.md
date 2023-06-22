@@ -16,4 +16,4 @@ I learned this the hard way.
 the idea is to be able to use this chunk of code in a future project. please feel welcome to use this script to test the functionality of the GPT4ALL mixed with 
 PYTTSX3 
 
-*I may make this library private in the future as one of my future projects may include this.*
+
